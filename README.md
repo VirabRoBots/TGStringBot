@@ -82,9 +82,9 @@ Check Out The [helper_funcs](https://github.com/AL3X-Github/TGStringBot/tree/mai
 </h3>
 
 - Libraries Used:
-  - [python-telegram-bot](https://github.com/AL3X-Github/TGStringBot)
-  - [requests](https://github.com/psf/requests)
-  - [beautifulsoup4](https://pypi.org/project/beautifulsoup4)
+  - [Python Telegram Bot](https://github.com/AL3X-Github/TGStringBot)
+  - [Requests](https://github.com/psf/requests)
+  - [Beautifulsoup4](https://pypi.org/project/beautifulsoup4)
 - Thanks to:
   - [Inspired](https://telegram.dog/SpEcHlDe)
 
