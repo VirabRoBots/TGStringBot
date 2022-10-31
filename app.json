@@ -22,7 +22,7 @@
     },
     "URL": {
       "description": "The Heroku App URL Similar To https://<appname>.herokuapp.com/",
-      "value": "https://example.com/"
+      "value": ""
     },
     "PORT": {
       "description": "Port To Use For Your Webhooks",
@@ -61,7 +61,7 @@
       "required": false
     },
     "ERRED_PAGE": {
-      "description": "A String Which Will **Never** Cccur, But Still Exists?",
+      "description": "A String Which Will **Never** Occur, But Still Exists?",
       "required": false
     },
     "CANCELLED_MESG": {
