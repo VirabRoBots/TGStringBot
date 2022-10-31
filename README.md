@@ -12,10 +12,10 @@ Yer Another [my.telegram.org](https://my.telegram.org/auth) Scrapper Inside Tele
 
 Please Treat Your `APP ID` And `API HASH` With Care, And Ensure That They Do Not Fall Into Wrong Hands.
 
-**Telegram said**: __It is forbidden to pass this value to third parties__.
+**Telegram Said** : __It Is Forbidden To Pass This Value To Third Parties__.
 
 <h3 align="center">
-    ─「 Frequently Asked Questions 」─
+    ─「 Asked Questions 」─
 </h3>
 
 - Should you Trust this bot?
