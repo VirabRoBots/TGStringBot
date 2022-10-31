@@ -74,7 +74,7 @@ python3 bot.py
     ─「 Learning 」─
 </h3>
 
-Check Out The [helper_funcs](https://github.com/GreyMattersBot/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, To See How my.telegram.org Is Scrapped.
+Check Out The [helper_funcs](https://github.com/AL3X-Github/TGStringBot/tree/main/helper_funcs) directory, To See How my.telegram.org Is Scrapped.
 
 <h3 align="center">
     ─「 Credits 」─
