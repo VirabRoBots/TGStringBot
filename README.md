@@ -88,9 +88,9 @@ Check Out The [helper_funcs](https://github.com/AL3X-Github/TGStringBot/tree/mai
 - Thanks to:
   - [Inspired](https://telegram.dog/SpEcHlDe)
 
-<h2 align="center">
+<h3 align="center">
     ─「 Support & Updates 」─
-</h2>
+</h3>
 
 <div align="center">
 
