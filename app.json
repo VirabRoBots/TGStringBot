@@ -1,0 +1,78 @@
+{
+  "name": "My Telegram Org",
+  "description": "Get your APP ID and API HASH inside Telegram",
+  "keywords": [
+    "telegram",
+    "best",
+    "app",
+    "scrapper",
+    "3"
+  ],
+  "repository": "https://github.com/AL3X-Github/TGStringBot",
+  "success_url": "https://telegram.dog/MaximXBots",
+  "website": "https://telegram.dog/MaximXRobot",
+  "env": {
+    "WEBHOOK": {
+      "description": "Setting This To ANYTHING Will Enable Webhooks When In Env Mode",
+      "value": "ANYTHING"
+    },
+    "TG_BOT_TOKEN": {
+      "description": "Your Bot Token, As A String.",
+      "value": ""
+    },
+    "URL": {
+      "description": "The Heroku App URL Similar To https://<appname>.herokuapp.com/",
+      "value": "https://example.com/"
+    },
+    "PORT": {
+      "description": "Port To Use For Your Webhooks",
+      "value": "5000"
+    },
+    "APP_TITLE": {
+      "description": "Specify A Custom App Title",
+      "required": false
+    },
+    "APP_SHORT_NAME": {
+      "description": "Specify A Custom Alphamumeric Shortname (5-32 characters)",
+      "required": false
+    },
+    "APP_URL": {
+      "description": "Specify A Custom App URL",
+      "required": false
+    },
+    "APP_DESCRIPTION": {
+      "description": "Specify A Custom App Description",
+      "required": false
+    },
+    "FTEXT": {
+      "description": "The Footer Text That Will Be Seen In The Bot Message, After The Final Edit",
+      "required": false
+    },
+    "START_TEXT": {
+      "description": "The Start Text Of The Telegram Bot",
+      "required": false
+    },
+    "AFTER_RECVD_CODE_TEXT": {
+      "description": "The Message That Should Be Displayed Before Receiving The Code From The User",
+      "required": false
+    },
+    "BEFORE_SUCC_LOGIN": {
+      "description": "A Temporary Message That Will Be Displayed After Receiving The Code, And Before The Validations",
+      "required": false
+    },
+    "ERRED_PAGE": {
+      "description": "A String Which Will **Never** Cccur, But Still Exists?",
+      "required": false
+    },
+    "CANCELLED_MESG": {
+      "description": "A Message That Should Be Shown On /cancel",
+      "required": false
+    }
+  },
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}
