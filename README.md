@@ -2,7 +2,7 @@
     ─「 My Telegram Org Bot 」─
 </h3>
 
-Yer Another [my.telegram.org](https://my.telegram.org/auth) Scrapper Inside Telegram.
+Yet Another [my.telegram.org](https://my.telegram.org/auth) Scrapper Inside Telegram.
 
 <img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg">
 
@@ -19,7 +19,7 @@ Please Treat Your `APP ID` And `API HASH` With Care, And Ensure That They Do Not
 </h3>
 
 - Should you Trust this bot?
-  - **NO**. __You Should Never Sent Any Of Your Private Credentials To Unknown Third-party Telegram Bots__. This bot / Source Code Was An Attempt To Scrap `my.telegram.org` Using `Python3` Libraries.
+  - **NO**. __You Should Never Sent Any Of Your Private Credentials To Unknown Third-party Telegram Bots__. This bot Source Code Was An Attempt To Scrap `my.telegram.org` Using `Python3` Libraries.
 
 
 <h3 align="center">
