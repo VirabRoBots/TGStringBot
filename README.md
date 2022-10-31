@@ -1,8 +1,8 @@
-<h1 align="center">
+<h3 align="center">
     ─「 My Telegram Org Bot 」─
-</h1>
+</h3>
 
-~~(yet)~~ Another my.telegram.org Scrapper Inside Telegram.
+Yer Another [my.telegram.org](https://my.telegram.org/auth) Scrapper Inside Telegram.
 
 <img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg">
 
@@ -15,10 +15,10 @@ Please Treat Your `APP_ID` and `API_HASH` With Care, And Ensure That They Do Not
 
 <h3 align="center">
     ─「 Frequently Asked Questions 」─
-</h3>## 
+</h3>
 
 - Should you Trust this bot?
-  - **NO**. __you should never sent any of your private credentials to unknown third-party Telegram Bots__. This bot / source code was an attempt to scrap `my.telegram.org` using `Python3` libraries.
+  - **NO**. __You Should Never Sent Any Of Your Private Credentials To Unknown Third-party Telegram Bots__. This bot / Source Code Was An Attempt To Scrap `my.telegram.org` Using `Python3` Libraries.
 
 
 <h3 align="center">
@@ -74,7 +74,7 @@ python3 bot.py
     ─「 Learning 」─
 </h3>
 
-check out the [helper_funcs](https://github.com/GreyMattersBot/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+Check Out The [helper_funcs](https://github.com/GreyMattersBot/MyTelegramOrgRoBot/tree/master/helper_funcs) directory, To See How my.telegram.org Is Scrapped.
 
 <h3 align="center">
     ─「 Credits 」─
@@ -88,7 +88,7 @@ check out the [helper_funcs](https://github.com/GreyMattersBot/MyTelegramOrgRoBo
   - [Inspired](https://telegram.dog/SpEcHlDe)
 
 <h2 align="center">
-    ─「 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 」─
+    ─「 Support & Updates 」─
 </h2>
 
 <div align="center">
