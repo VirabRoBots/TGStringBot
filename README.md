@@ -9,7 +9,8 @@ Yer Another [my.telegram.org](https://my.telegram.org/auth) Scrapper Inside Tele
 <h3 align="center">
     ─「 Legal Disclaimer 」─
 </h3>
-Please Treat Your `APP_ID` and `API_HASH` With Care, And Ensure That They Do Not Fall Into Wrong Hands.
+
+Please Treat Your `APP ID` And `API HASH` With Care, And Ensure That They Do Not Fall Into Wrong Hands.
 
 **Telegram said**: __It is forbidden to pass this value to third parties__.
 
