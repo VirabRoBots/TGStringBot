@@ -89,7 +89,7 @@ Check Out The [helper_funcs](https://github.com/AL3X-Github/TGStringBot/tree/mai
   - [Inspired](https://telegram.dog/SpEcHlDe)
 
 <h3 align="center">
-    ─「 Support & Updates 」─
+    ─「 Support & Updates  」─
 </h3>
 
 <div align="center">
@@ -97,7 +97,7 @@ Check Out The [helper_funcs](https://github.com/AL3X-Github/TGStringBot/tree/mai
 <p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/ㅤPowered By I𝗓υɱi 和泉ㅤ-blue"></a></p>
 
 
-![Cover](https://te.legra.ph/file/601cfb397a19f503c9265.jpg)
+![Support Cover](https://github.com/AL3X-Github/Resources/blob/main/Photos/Support.png)
 
 </div>
 
@@ -108,8 +108,10 @@ Check Out The [helper_funcs](https://github.com/AL3X-Github/TGStringBot/tree/mai
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/AL3X-Github)
 
+<h6>
 
-© [Maxim X Bots](https://telegram.dog/MaximXBots)
+**Copyright 2022 :** [**Iᴢυɱi 和泉**](https://telegram.dog/MaximXRobot) 
 
+</h6>
 </div>
 
