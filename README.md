@@ -4,7 +4,7 @@
 
 Yet Another [my.telegram.org](https://my.telegram.org/auth) Scrapper Inside Telegram.
 
-<img src="https://te.legra.ph/file/0c13eb00aaba21dd2f541.jpg">
+<img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/Izumi%20X%20Shikimori.png">
 
 <h3 align="center">
     ─「 Legal Disclaimer 」─
